@@ -1,7 +1,7 @@
 /**
  * Instagram Scraper
  * 
- * @author rozklad <jan.rozklad@gmail.com>
+ * @author Tinka <lenmatka818@gmail.com>
  */
 console.log('Hello world');
 const Nightmare = require('nightmare')          // Nahrat knihovnu nightmare
